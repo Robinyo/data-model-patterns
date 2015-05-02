@@ -9,7 +9,7 @@ A collection of data models that provide solutions to common problems in databas
 
 ![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/party-overview.png)
 
-### Party
+### Party Role
 
 ![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/party.png)
 
@@ -17,7 +17,7 @@ A collection of data models that provide solutions to common problems in databas
 
 The Conceptual Data Models were prepared using the community edition of the  [ERwin](http://erwin.com/products/data-modeler/community-edition) Data Modeler.
 
-**Note:** The community edition of ERwin is limited to 25 model objects.
+**Note:** The community edition of ERwin is limited to 25 model objects, to address this limitation each subject area (e.g., Party, Location, Product, etc.) model is located in a seperate '.erwin' file.
 
 ## Feedback
 
