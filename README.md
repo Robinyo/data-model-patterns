@@ -17,7 +17,7 @@ A collection of data models that provide solutions to common problems in databas
 
 The Conceptual Data Models were prepared using the community edition of the  [ERwin](http://erwin.com/products/data-modeler/community-edition) Data Modeler.
 
-**Note:** The community edition of ERwin is limited to 25 model objects, to address this limitation each subject area (e.g., Party, Location and Product) model is located in a seperate '.erwin' file.
+**Note:** The community edition of ERwin is limited to 25 model objects, to address this limitation each subject area (e.g., Party, Location and Product) model is located in a separate '.erwin' file.
 
 ## Feedback
 
