@@ -3,7 +3,7 @@ A collection of data models that provide solutions to common problems in databas
 
 ## Credits
 
-The Conceptual Data Model models were prepared using the community edition of the  [ERwin](http://erwin.com/products/data-modeler/community-edition) Data Modeler.
+The Conceptual Data Models were prepared using the community edition of the  [ERwin](http://erwin.com/products/data-modeler/community-edition) Data Modeler.
 
 **Note:** The community edition of ERwin is limited to 25 model objects.
 
