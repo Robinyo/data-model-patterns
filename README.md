@@ -1,6 +1,18 @@
 # Data Model Patterns
 A collection of data models that provide solutions to common problems in database design.
 
+## Conceptual Data Models
+
+### Party Subject Area
+
+### Party - Overview
+
+![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/party-overview.png)
+
+### Party
+
+![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/party.png)
+
 ## Credits
 
 The Conceptual Data Models were prepared using the community edition of the  [ERwin](http://erwin.com/products/data-modeler/community-edition) Data Modeler.
