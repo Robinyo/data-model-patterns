@@ -9,6 +9,11 @@ A collection of data models that provide solutions to common problems in databas
 
 ![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/party.png)
 
+### Individual
+
+![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/individual.png)
+
+
 ### Individual Name
 
 ![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/individual-name.png)
