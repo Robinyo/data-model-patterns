@@ -3,24 +3,30 @@ A collection of data models that provide solutions to common problems in databas
 
 ## Conceptual Data Models
 
+### Subject Area: Asset
+
+### Party
+
+![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/asset/images/asset.png)
+
 ### Subject Area: Party
 
 ### Party
 
-![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/party.png)
+![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/party.png)
 
 ### Individual
 
-![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/individual.png)
+![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/individual.png)
 
 
 ### Individual Name
 
-![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/individual-name.png)
+![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/individual-name.png)
 
 ### Organisation
 
-![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/organisation.png)
+![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/organisation.png)
 
 ## Credits
 
