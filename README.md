@@ -18,6 +18,10 @@ A collection of data models that provide solutions to common problems in databas
 
 ![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/individual-name.png)
 
+### Organisation
+
+![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/organisation.png)
+
 ## Credits
 
 The Conceptual Data Models were prepared using the community edition of the  [ERwin](http://erwin.com/products/data-modeler/community-edition) Data Modeler.
