@@ -3,11 +3,15 @@ A collection of data models that provide solutions to common problems in databas
 
 ## Conceptual Data Models
 
-### Party Subject Area
+### Subject Area: Party
 
 ### Party
 
 ![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/party.png)
+
+### Individual Name
+
+![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/individual-name.png)
 
 ## Credits
 
