@@ -30,7 +30,7 @@ The Conceptual Data Models were prepared using the community edition of the  [ER
 
 ## Feedback
 
-All bugs, feature requests, pull requests, feedback, etc., are welcome.
+All feature requests, pull requests, feedback, etc., are welcome.
 
 ## License
 
