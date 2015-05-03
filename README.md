@@ -5,11 +5,7 @@ A collection of data models that provide solutions to common problems in databas
 
 ### Party Subject Area
 
-### Party - Overview
-
-![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/party-overview.png)
-
-### Party Role
+### Party
 
 ![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/assets/party.png)
 
