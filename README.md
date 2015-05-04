@@ -5,7 +5,7 @@ A collection of data models that provide solutions to common problems in databas
 
 ### Subject Area: Asset
 
-### Party
+### Asset
 
 ![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/asset/images/asset.png)
 
