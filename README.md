@@ -13,6 +13,10 @@ A collection of data models that provide solutions to common problems in databas
 
 ![Asset screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/asset/images/asset-draft.png)
 
+### Documentation Item
+
+![Documentation Item screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/asset/images/documentation-item.png)
+
 ### Subject Area: Party
 
 ### Party
