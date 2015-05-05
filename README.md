@@ -7,26 +7,30 @@ A collection of data models that provide solutions to common problems in databas
 
 ### Asset
 
-![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/asset/images/asset.png)
+![Asset screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/asset/images/asset.png)
+
+### Asset - DRAFT
+
+![Asset screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/asset/images/asset-draft.png)
 
 ### Subject Area: Party
 
 ### Party
 
-![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/party.png)
+![Party screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/party.png)
 
 ### Individual
 
-![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/individual.png)
+![Individual screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/individual.png)
 
 
 ### Individual Name
 
-![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/individual-name.png)
+![Individual Name screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/individual-name.png)
 
 ### Organisation
 
-![party-overview screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/organisation.png)
+![Organisation screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/organisation.png)
 
 ## Credits
 
