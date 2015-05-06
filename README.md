@@ -17,6 +17,12 @@ A collection of data models that provide solutions to common problems in databas
 
 ![Documentation Item screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/asset/images/documentation-item.png)
 
+### Subject Area: Location
+
+### Location
+
+![Location screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/location/images/location.png)
+
 ### Subject Area: Party
 
 ### Party
@@ -26,11 +32,6 @@ A collection of data models that provide solutions to common problems in databas
 ### Individual
 
 ![Individual screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/individual.png)
-
-
-### Individual Name
-
-![Individual Name screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/individual-name.png)
 
 ### Organisation
 
