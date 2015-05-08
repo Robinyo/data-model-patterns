@@ -37,6 +37,20 @@ A collection of data models that provide solutions to common problems in databas
 
 ![Organisation screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/party/images/organisation.png)
 
+### Subject Area: Role
+
+### Role - Architype
+
+![Role - Architype screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/role/images/role-architype.png)
+
+### Component Role
+
+![Role - Architype screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/role/images/component-role.png)
+
+### Party Role
+
+![Role - Architype screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/role/images/party-role.png)
+
 ## Credits
 
 The Conceptual Data Models were prepared using the community edition of the  [ERwin](http://erwin.com/products/data-modeler/community-edition) Data Modeler.
