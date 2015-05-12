@@ -55,11 +55,11 @@ A collection of data models that provide solutions to common problems in databas
 
 ### Hierarchy - Architype
 
-![Hierarchy - Architype screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/dimensional-design/hierarchies/hierarchy-architype.png)
+![Hierarchy - Architype screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/dimensional-design/hierarchies/images/hierarchy-architype.png)
 
 ### Customer, Location, Account, Time - Hierarchy Diagram
 
-![Hierarchy Diagram - screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/dimensional-design/hierarchies/hierarchy-diagram.png)
+![Hierarchy Diagram - screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/dimensional-design/hierarchies/images/hierarchy-diagram.png)
 
 ## Credits
 
