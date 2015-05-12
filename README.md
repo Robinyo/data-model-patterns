@@ -9,9 +9,9 @@ A collection of data models that provide solutions to common problems in databas
 
 ![Asset screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/asset/images/asset.png)
 
-### Asset - DRAFT
+### Tangible Asset
 
-![Asset screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/asset/images/asset-draft.png)
+![Asset screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/asset/images/tangible-asset.png)
 
 ### Documentation Item
 
@@ -45,11 +45,21 @@ A collection of data models that provide solutions to common problems in databas
 
 ### Component Role
 
-![Role - Architype screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/role/images/component-role.png)
+![Component Role - screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/role/images/component-role.png)
 
 ### Party Role
 
-![Role - Architype screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/role/images/party-role.png)
+![Party Role - screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/role/images/party-role.png)
+
+### Dimensional Models
+
+### Hierarchy - Architype
+
+![Hierarchy - Architype screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/dimensional-design/hierarchies/hierarchy-architype.png)
+
+### Customer, Location, Account, Time - Hierarchy Diagram
+
+![Hierarchy Diagram - screenshot](https://github.com/Robinyo/data-model-patterns/blob/master/dimensional-design/hierarchies/hierarchy-diagram.png)
 
 ## Credits
 
